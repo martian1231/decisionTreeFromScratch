@@ -1,3 +1,7 @@
+<p align= "center">
+<a href="https://colab.research.google.com/github/martian1231/decisionTreeFromScratch/blob/main/decision_tree(classification%20and%20regression).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
+</p>
+
 # Decision trees (nested if else based classifier)
 Decision trees are non-parametric supervised learning algorithms (for both classification and regression) that tries to model the problems without any assumptions on data (unlike logistic regression, linear regression etc). AT each step, decision tree asks a binary question for all feature-value pair and select best question that yield best separation based on decision criteria (Gini impurity or information gain in the case of classification problem and MSE or MAE in the case of regression problem). 
 
